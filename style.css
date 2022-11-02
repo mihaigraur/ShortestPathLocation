@@ -1,0 +1,17 @@
+#map{
+    height: 60%;
+    width: 60%;
+    position: absolute;
+    overflow: hidden;
+    top: 20%;
+    left: 20%;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#panel{
+    text-align: center;
+    line-height: 30px;
+}
